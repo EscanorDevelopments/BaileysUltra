@@ -15,9 +15,9 @@
     "EscanorDev",
     "EscanorDevelopment"
   ],
-  "homepage": "https://github.com/EscanorDevelopments/@escanordev/BaileysUltra",
+  "homepage": "https://github.com/EscanorDevelopments/@escanordev/BaileysUltra.git",
   "repository": {
-    "url": "repo:EscanorDevelopments/@escanordev/BaileysUltra"
+    "url": "git@github.com:EscanorDevelopments/@escanordev/BaileysUltra.git"
   },
   "license": "MIT",
   "author": "el diego",
